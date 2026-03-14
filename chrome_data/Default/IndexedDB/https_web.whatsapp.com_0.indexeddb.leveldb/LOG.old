@@ -1,8 +1,0 @@
-2026/03/14-10:16:09.741 4a44 Reusing MANIFEST C:\Users\alifa\Desktop\freetime\chrome_data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/14-10:16:09.743 4a44 Recovering log #15
-2026/03/14-10:16:09.747 4a44 Reusing old log C:\Users\alifa\Desktop\freetime\chrome_data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
-2026/03/14-10:16:09.748 4a44 Delete type=2 #14
-2026/03/14-10:16:09.748 4a44 Delete type=2 #16
-2026/03/14-10:17:50.342 33c4 Level-0 table #20: started
-2026/03/14-10:17:50.424 33c4 Level-0 table #20: 1102388 bytes OK
-2026/03/14-10:17:50.427 33c4 Delete type=0 #15
